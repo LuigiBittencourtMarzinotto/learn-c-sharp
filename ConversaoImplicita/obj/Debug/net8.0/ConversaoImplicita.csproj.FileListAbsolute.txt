@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.exe
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.deps.json
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.dll
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.pdb
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.sourcelink.json
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.dll
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\refint\ConversaoImplicita.dll
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.pdb
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\ConversaoImplicita\obj\Debug\net8.0\ref\ConversaoImplicita.dll

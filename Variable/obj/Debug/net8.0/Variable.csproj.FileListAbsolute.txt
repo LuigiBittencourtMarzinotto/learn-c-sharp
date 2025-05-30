@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\Variable\bin\Debug\net8.0\Variable.exe
+C:\Users\bitte\developer\study-csharp\Variable\bin\Debug\net8.0\Variable.deps.json
+C:\Users\bitte\developer\study-csharp\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\Variable\bin\Debug\net8.0\Variable.dll
+C:\Users\bitte\developer\study-csharp\Variable\bin\Debug\net8.0\Variable.pdb
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.sourcelink.json
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.dll
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\refint\Variable.dll
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.pdb
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\Variable\obj\Debug\net8.0\ref\Variable.dll

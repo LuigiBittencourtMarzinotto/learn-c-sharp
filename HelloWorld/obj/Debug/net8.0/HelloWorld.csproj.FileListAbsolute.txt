@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\bitte\developer\study-csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\bitte\developer\study-csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\bitte\developer\study-csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

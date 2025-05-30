@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.sourcelink.json
+C:\Users\bitte\developer\study-csharp\EntradaSaida\bin\Debug\net8.0\EntradaSaida.exe
+C:\Users\bitte\developer\study-csharp\EntradaSaida\bin\Debug\net8.0\EntradaSaida.deps.json
+C:\Users\bitte\developer\study-csharp\EntradaSaida\bin\Debug\net8.0\EntradaSaida.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\EntradaSaida\bin\Debug\net8.0\EntradaSaida.dll
+C:\Users\bitte\developer\study-csharp\EntradaSaida\bin\Debug\net8.0\EntradaSaida.pdb
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.dll
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\refint\EntradaSaida.dll
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.pdb
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\EntradaSaida.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\EntradaSaida\obj\Debug\net8.0\ref\EntradaSaida.dll
