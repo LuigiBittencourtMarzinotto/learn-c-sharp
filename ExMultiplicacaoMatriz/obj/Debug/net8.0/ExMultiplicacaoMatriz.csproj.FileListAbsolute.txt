@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\bin\Debug\net8.0\ExMultiplicacaoMatriz.exe
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\bin\Debug\net8.0\ExMultiplicacaoMatriz.deps.json
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\bin\Debug\net8.0\ExMultiplicacaoMatriz.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\bin\Debug\net8.0\ExMultiplicacaoMatriz.dll
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\bin\Debug\net8.0\ExMultiplicacaoMatriz.pdb
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.sourcelink.json
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.dll
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\refint\ExMultiplicacaoMatriz.dll
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.pdb
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ExMultiplicacaoMatriz.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\ExMultiplicacaoMatriz\obj\Debug\net8.0\ref\ExMultiplicacaoMatriz.dll
