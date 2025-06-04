@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\Condicoes\bin\Debug\net8.0\Condicoes.exe
+C:\Users\bitte\developer\study-csharp\Condicoes\bin\Debug\net8.0\Condicoes.deps.json
+C:\Users\bitte\developer\study-csharp\Condicoes\bin\Debug\net8.0\Condicoes.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\Condicoes\bin\Debug\net8.0\Condicoes.dll
+C:\Users\bitte\developer\study-csharp\Condicoes\bin\Debug\net8.0\Condicoes.pdb
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.sourcelink.json
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.dll
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\refint\Condicoes.dll
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.pdb
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\Condicoes.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\Condicoes\obj\Debug\net8.0\ref\Condicoes.dll

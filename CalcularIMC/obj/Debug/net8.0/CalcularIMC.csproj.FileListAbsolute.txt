@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\CalcularIMC\bin\Debug\net8.0\CalcularIMC.exe
+C:\Users\bitte\developer\study-csharp\CalcularIMC\bin\Debug\net8.0\CalcularIMC.deps.json
+C:\Users\bitte\developer\study-csharp\CalcularIMC\bin\Debug\net8.0\CalcularIMC.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\CalcularIMC\bin\Debug\net8.0\CalcularIMC.dll
+C:\Users\bitte\developer\study-csharp\CalcularIMC\bin\Debug\net8.0\CalcularIMC.pdb
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.sourcelink.json
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.dll
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\refint\CalcularIMC.dll
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.pdb
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\CalcularIMC.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\CalcularIMC\obj\Debug\net8.0\ref\CalcularIMC.dll
