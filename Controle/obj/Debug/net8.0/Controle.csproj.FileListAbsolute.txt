@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.sourcelink.json
+C:\Users\bitte\developer\study-csharp\Controle\bin\Debug\net8.0\Controle.exe
+C:\Users\bitte\developer\study-csharp\Controle\bin\Debug\net8.0\Controle.deps.json
+C:\Users\bitte\developer\study-csharp\Controle\bin\Debug\net8.0\Controle.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\Controle\bin\Debug\net8.0\Controle.dll
+C:\Users\bitte\developer\study-csharp\Controle\bin\Debug\net8.0\Controle.pdb
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.dll
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\refint\Controle.dll
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.pdb
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\Controle.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\Controle\obj\Debug\net8.0\ref\Controle.dll

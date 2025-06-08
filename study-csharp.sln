@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicoes", "Condicoes\Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularIMC", "CalcularIMC\CalcularIMC.csproj", "{0671FAE3-9F7B-4CDB-857D-83C2E6F21AE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{A7779031-1CD3-4C7E-A74B-E63A953ABF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,14 @@ Global
 		{0671FAE3-9F7B-4CDB-857D-83C2E6F21AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0671FAE3-9F7B-4CDB-857D-83C2E6F21AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0671FAE3-9F7B-4CDB-857D-83C2E6F21AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7779031-1CD3-4C7E-A74B-E63A953ABF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7779031-1CD3-4C7E-A74B-E63A953ABF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7779031-1CD3-4C7E-A74B-E63A953ABF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7779031-1CD3-4C7E-A74B-E63A953ABF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
