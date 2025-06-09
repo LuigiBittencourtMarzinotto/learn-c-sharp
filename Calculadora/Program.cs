@@ -13,7 +13,9 @@ class Program
         Operacao:
         Console.Write("Digite a operação: ");
         char op = char.Parse(Console.ReadLine());
+
         double result = 0;
+
         switch (op)
         {
             case '*':
