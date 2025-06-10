@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\fibonnaci\bin\Debug\net8.0\fibonnaci.exe
+C:\Users\bitte\developer\study-csharp\fibonnaci\bin\Debug\net8.0\fibonnaci.deps.json
+C:\Users\bitte\developer\study-csharp\fibonnaci\bin\Debug\net8.0\fibonnaci.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\fibonnaci\bin\Debug\net8.0\fibonnaci.dll
+C:\Users\bitte\developer\study-csharp\fibonnaci\bin\Debug\net8.0\fibonnaci.pdb
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.sourcelink.json
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.dll
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\refint\fibonnaci.dll
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.pdb
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\fibonnaci.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\fibonnaci\obj\Debug\net8.0\ref\fibonnaci.dll

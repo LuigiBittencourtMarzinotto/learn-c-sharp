@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Contro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticao", "Repeticao\Repeticao.csproj", "{53CB0530-CEDB-462D-AE35-741491E75D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonnaci", "fibonnaci\fibonnaci.csproj", "{C76AE6D2-162A-4E6B-8B4D-9A518ABA2F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +72,14 @@ Global
 		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCEB6C89-5CC6-44C9-9135-CE484393C7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CB0530-CEDB-462D-AE35-741491E75D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB0530-CEDB-462D-AE35-741491E75D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB0530-CEDB-462D-AE35-741491E75D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB0530-CEDB-462D-AE35-741491E75D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76AE6D2-162A-4E6B-8B4D-9A518ABA2F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76AE6D2-162A-4E6B-8B4D-9A518ABA2F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76AE6D2-162A-4E6B-8B4D-9A518ABA2F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76AE6D2-162A-4E6B-8B4D-9A518ABA2F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
