@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Pessoa pessoa = new Pessoa();
+
         NewClass newClass = new NewClass();
         // depoios de ter instanciado uma classe podemos acessa os atributos dela
         // na variavel que criamos, temos acessos a todos seus atributos, podemos manipular eles
@@ -20,6 +21,9 @@ class Program
             cpf = "04350852595",
             idade = 18,
         };
+        // Como falamos o objeto tem acesso ao os metodos publicos da classe
+        // sendo assim podemos chamar eles
+        p2.Cumprimentar();
 
     }
 }

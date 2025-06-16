@@ -7,4 +7,10 @@ public class Pessoa
     public string nome;
     public string cpf;
     public int idade;
+
+    // Função void sem retorno
+    public void Cumprimentar()
+    {
+        Console.WriteLine("Praze em lhe conhecer " + nome + "" + cpf);
+    }
 }
