@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\bin\Debug\net8.0\TypeOfMethodByClass.exe
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\bin\Debug\net8.0\TypeOfMethodByClass.deps.json
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\bin\Debug\net8.0\TypeOfMethodByClass.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\bin\Debug\net8.0\TypeOfMethodByClass.dll
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\bin\Debug\net8.0\TypeOfMethodByClass.pdb
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.sourcelink.json
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.dll
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\refint\TypeOfMethodByClass.dll
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.pdb
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\TypeOfMethodByClass.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\TypeOfMethodByClass\obj\Debug\net8.0\ref\TypeOfMethodByClass.dll
