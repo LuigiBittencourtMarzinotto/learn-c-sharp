@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TypeOfMethodByClass")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TermoThis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5db5ceaaf6ca865571cfaa6060ef60b4c67b2bc")]
-[assembly: System.Reflection.AssemblyProductAttribute("TypeOfMethodByClass")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TypeOfMethodByClass")]
+[assembly: System.Reflection.AssemblyProductAttribute("TermoThis")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TermoThis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
