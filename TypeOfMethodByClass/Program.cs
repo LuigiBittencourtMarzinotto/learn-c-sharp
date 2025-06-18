@@ -1,4 +1,6 @@
-﻿namespace TypeOfMethodByClass;
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace TypeOfMethodByClass;
 
 class Program
 {
@@ -12,6 +14,12 @@ class Program
         // para passa o parametro necessitamos indica que ao passa ele deve passa a ref nao uma copia
         m.AumentarValorRef(ref valor);
         Console.WriteLine(valor);
+
+        string fullName = m.MontaNome("Luigi", "Marzinotto");
+        Console.WriteLine(fullName);
+
+        m.teste1();
+        m.teste1("Luihi");
 
     }
 }

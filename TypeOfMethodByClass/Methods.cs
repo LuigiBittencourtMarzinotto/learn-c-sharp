@@ -23,6 +23,28 @@ public class Methods
     {
         valor += 10;
     }
+
+    // Metodos com retorno de valores
+    // Todo metodo pode ter ou não um retorno, porém antes do retorna ja devemos sinaliza que tipo de dado
+    // ele tem q retorna, o tipo de retorno é obrigatorio ser igual o tipo sinalizado depois do public
+    public string MontaNome(string nome, string sobrenome)
+    {
+        return nome + " " + sobrenome;
+    }
+
+    // Sobrecarga de metodos
+    // Toda função tem uma assinatura, ou seja da forma q ela é construida ela gera uma assinatura, carecterizado por seus parametros e tipos
+    // Na sobrecarga de metodos podemos criar uma função o mesmo nome de uma ja criada, desde que mudemos seus parametros ou quantidade ou tipos
+    // Exemplo:
+    public void teste1()
+    {
+        Console.WriteLine("Teste");
+    }
+
+    public void teste1(string name)
+    {
+        Console.WriteLine("Teste do " + name);
+    }
 }
 
 
