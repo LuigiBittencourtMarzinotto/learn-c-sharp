@@ -12,5 +12,14 @@ class Program
         Moto meuMoto = new Moto();
         meuMoto.Acelerar();
         #endregion
+
+        int value = 150;
+        int soma = 0;
+        string valueString = value.ToString();
+        for (int i = 0; i < value.ToString().Length; i++)
+        {
+            soma += (int)Math.Pow(int.Parse(valueString[i].ToString()), valueString.Length);
+        }
+        Console.WriteLine(soma == value);
     }
 }
