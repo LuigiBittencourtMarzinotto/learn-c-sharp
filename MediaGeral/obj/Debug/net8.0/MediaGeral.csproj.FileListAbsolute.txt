@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\MediaGeral\bin\Debug\net8.0\MediaGeral.exe
+C:\Users\bitte\developer\study-csharp\MediaGeral\bin\Debug\net8.0\MediaGeral.deps.json
+C:\Users\bitte\developer\study-csharp\MediaGeral\bin\Debug\net8.0\MediaGeral.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\MediaGeral\bin\Debug\net8.0\MediaGeral.dll
+C:\Users\bitte\developer\study-csharp\MediaGeral\bin\Debug\net8.0\MediaGeral.pdb
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.sourcelink.json
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.dll
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\refint\MediaGeral.dll
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.pdb
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\MediaGeral.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\MediaGeral\obj\Debug\net8.0\ref\MediaGeral.dll
