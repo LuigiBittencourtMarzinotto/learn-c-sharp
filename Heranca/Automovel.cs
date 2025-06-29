@@ -1,6 +1,6 @@
 namespace Heranca
 {
-    public class Automovel
+    abstract public class Automovel
     {
         private double _motor;
         private string _marca;
@@ -24,10 +24,7 @@ namespace Heranca
             set { _modelo = value; }
         }
 
-        public void Acelerar()
-        {
-            Console.WriteLine("Acelerou");
-        }
+        abstract public void Acelerar();
 
         public void Parar()
         {
