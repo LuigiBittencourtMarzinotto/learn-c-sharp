@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\MetodoMain\bin\Debug\net8.0\MetodoMain.exe
+C:\Users\bitte\developer\study-csharp\MetodoMain\bin\Debug\net8.0\MetodoMain.deps.json
+C:\Users\bitte\developer\study-csharp\MetodoMain\bin\Debug\net8.0\MetodoMain.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\MetodoMain\bin\Debug\net8.0\MetodoMain.dll
+C:\Users\bitte\developer\study-csharp\MetodoMain\bin\Debug\net8.0\MetodoMain.pdb
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.sourcelink.json
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.dll
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\refint\MetodoMain.dll
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.pdb
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\MetodoMain.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\MetodoMain\obj\Debug\net8.0\ref\MetodoMain.dll

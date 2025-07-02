@@ -1,0 +1,15 @@
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\bin\Debug\net8.0\FatorialRecursivo.exe
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\bin\Debug\net8.0\FatorialRecursivo.deps.json
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\bin\Debug\net8.0\FatorialRecursivo.runtimeconfig.json
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\bin\Debug\net8.0\FatorialRecursivo.dll
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\bin\Debug\net8.0\FatorialRecursivo.pdb
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.AssemblyInfoInputs.cache
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.AssemblyInfo.cs
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.sourcelink.json
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.dll
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\refint\FatorialRecursivo.dll
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.pdb
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\FatorialRecursivo.genruntimeconfig.cache
+C:\Users\bitte\developer\study-csharp\FatorialRecursivo\obj\Debug\net8.0\ref\FatorialRecursivo.dll
